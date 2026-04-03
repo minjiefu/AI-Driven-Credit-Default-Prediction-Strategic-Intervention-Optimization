@@ -1,1 +1,4 @@
 # AI-Driven-Credit-Default-Prediction-Strategic-Intervention-Optimization
+1. Feature Engineering & Modeling: Engineered high-signal financial features and developed a predictive pipeline by using Logistic Regression as a baseline and XGBoost/Random Forests to capture complex non-linear risks, resulting in significantly higher prediction accuracy across 30,000 credit accounts.
+2. Financial Impact Analysis: Quantified business value by modeling the trade-off between counseling costs (NT$7,500) and intervention success (70%), identifying the optimal probability threshold to maximize net financial savings.
+3. Operational Implementation: Delivered a ranked risk priority list for targeted counseling and established a Control Group framework to validate program ROI and ensure long-term model reliability.
